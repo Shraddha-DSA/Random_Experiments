@@ -1,4 +1,4 @@
-**🚀 Random Experiments – ML & Deep Learning Practice**
+# 🚀 Random Experiments – ML & Deep Learning Practice
 
 This repository contains my hands-on experiments, practice notebooks, and mini-projects in Machine Learning, Deep Learning, and Data Science.
 
@@ -16,9 +16,9 @@ It serves as a sandbox where I implement concepts from scratch, experiment with 
   
 - Build strong fundamentals for AI/ML research & development
 
-  ---
+---
 
-  👩‍💻 Author
+***👩‍💻 Author***
 
 Shraddha Tiwari
 AI/ML Enthusiast | Building real-world AI systems
